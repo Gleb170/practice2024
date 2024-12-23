@@ -1,0 +1,50 @@
+C:\Users\glebl\Desktop\WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe.config
+C:\Users\glebl\Desktop\WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe
+C:\Users\glebl\Desktop\WpfApplication\WpfApplication\bin\Debug\WpfApplication.pdb
+C:\Users\glebl\Desktop\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csproj.AssemblyReference.cache
+C:\Users\glebl\Desktop\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csproj.ResolveComReference.cache
+C:\Users\glebl\Desktop\WpfApplication\WpfApplication\obj\Debug\MainWindow.baml
+C:\Users\glebl\Desktop\WpfApplication\WpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\glebl\Desktop\WpfApplication\WpfApplication\obj\Debug\MerchOrderWindow.g.cs
+C:\Users\glebl\Desktop\WpfApplication\WpfApplication\obj\Debug\MerchWindow.g.cs
+C:\Users\glebl\Desktop\WpfApplication\WpfApplication\obj\Debug\OrderWindow.g.cs
+C:\Users\glebl\Desktop\WpfApplication\WpfApplication\obj\Debug\UserWindow.g.cs
+C:\Users\glebl\Desktop\WpfApplication\WpfApplication\obj\Debug\App.g.cs
+C:\Users\glebl\Desktop\WpfApplication\WpfApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\glebl\Desktop\WpfApplication\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+C:\Users\glebl\Desktop\WpfApplication\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.lref
+C:\Users\glebl\Desktop\WpfApplication\WpfApplication\obj\Debug\MerchOrderWindow.baml
+C:\Users\glebl\Desktop\WpfApplication\WpfApplication\obj\Debug\MerchWindow.baml
+C:\Users\glebl\Desktop\WpfApplication\WpfApplication\obj\Debug\OrderWindow.baml
+C:\Users\glebl\Desktop\WpfApplication\WpfApplication\obj\Debug\UserWindow.baml
+C:\Users\glebl\Desktop\WpfApplication\WpfApplication\obj\Debug\WpfApplication.g.resources
+C:\Users\glebl\Desktop\WpfApplication\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+C:\Users\glebl\Desktop\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.cache
+C:\Users\glebl\Desktop\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csproj.CoreCompileInputs.cache
+C:\Users\glebl\Desktop\WpfApplication\WpfApplication\obj\Debug\WpfApplication.exe
+C:\Users\glebl\Desktop\WpfApplication\WpfApplication\obj\Debug\WpfApplication.pdb
+C:\Users\glebl\Desktop\ПРАКТИКА\Практика апз\WpfApplication\bin\Debug\WpfApplication.exe.config
+C:\Users\glebl\Desktop\ПРАКТИКА\Практика апз\WpfApplication\bin\Debug\WpfApplication.exe
+C:\Users\glebl\Desktop\ПРАКТИКА\Практика апз\WpfApplication\bin\Debug\WpfApplication.pdb
+C:\Users\glebl\Desktop\ПРАКТИКА\Практика апз\WpfApplication\obj\Debug\WpfApplication.csproj.AssemblyReference.cache
+C:\Users\glebl\Desktop\ПРАКТИКА\Практика апз\WpfApplication\obj\Debug\WpfApplication.csproj.ResolveComReference.cache
+C:\Users\glebl\Desktop\ПРАКТИКА\Практика апз\WpfApplication\obj\Debug\MainWindow.baml
+C:\Users\glebl\Desktop\ПРАКТИКА\Практика апз\WpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\glebl\Desktop\ПРАКТИКА\Практика апз\WpfApplication\obj\Debug\MerchOrderWindow.g.cs
+C:\Users\glebl\Desktop\ПРАКТИКА\Практика апз\WpfApplication\obj\Debug\MerchWindow.g.cs
+C:\Users\glebl\Desktop\ПРАКТИКА\Практика апз\WpfApplication\obj\Debug\OrderWindow.g.cs
+C:\Users\glebl\Desktop\ПРАКТИКА\Практика апз\WpfApplication\obj\Debug\UserWindow.g.cs
+C:\Users\glebl\Desktop\ПРАКТИКА\Практика апз\WpfApplication\obj\Debug\App.g.cs
+C:\Users\glebl\Desktop\ПРАКТИКА\Практика апз\WpfApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\glebl\Desktop\ПРАКТИКА\Практика апз\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+C:\Users\glebl\Desktop\ПРАКТИКА\Практика апз\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.lref
+C:\Users\glebl\Desktop\ПРАКТИКА\Практика апз\WpfApplication\obj\Debug\MerchOrderWindow.baml
+C:\Users\glebl\Desktop\ПРАКТИКА\Практика апз\WpfApplication\obj\Debug\MerchWindow.baml
+C:\Users\glebl\Desktop\ПРАКТИКА\Практика апз\WpfApplication\obj\Debug\OrderWindow.baml
+C:\Users\glebl\Desktop\ПРАКТИКА\Практика апз\WpfApplication\obj\Debug\UserWindow.baml
+C:\Users\glebl\Desktop\ПРАКТИКА\Практика апз\WpfApplication\obj\Debug\WpfApplication.g.resources
+C:\Users\glebl\Desktop\ПРАКТИКА\Практика апз\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+C:\Users\glebl\Desktop\ПРАКТИКА\Практика апз\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.cache
+C:\Users\glebl\Desktop\ПРАКТИКА\Практика апз\WpfApplication\obj\Debug\WpfApplication.csproj.CoreCompileInputs.cache
+C:\Users\glebl\Desktop\ПРАКТИКА\Практика апз\WpfApplication\obj\Debug\WpfApplication.exe
+C:\Users\glebl\Desktop\ПРАКТИКА\Практика апз\WpfApplication\obj\Debug\WpfApplication.pdb

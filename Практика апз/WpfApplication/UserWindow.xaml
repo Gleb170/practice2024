@@ -1,0 +1,36 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:WpfApplication" x:Class="WpfApplication.UserWindow"
+        Title="Пользователи" Height="366.85" Width="694.625" Loaded="Window_Loaded">
+    <Window.Resources>
+        <local:defaultDataSet x:Key="defaultDataSet"/>
+        <CollectionViewSource x:Key="пользовательViewSource" Source="{Binding Пользователь, Source={StaticResource defaultDataSet}}"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource пользовательViewSource}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="327*"/>
+            <ColumnDefinition Width="322*"/>
+            <ColumnDefinition Width="144*"/>
+        </Grid.ColumnDefinitions>
+
+        <DataGrid x:Name="пользовательDataGrid" AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding}" Margin="0,0,0,57" RowDetailsVisibilityMode="VisibleWhenSelected" Grid.ColumnSpan="3">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="пользовательНомерColumn" Binding="{Binding ПользовательНомер}" Header="Номер" />
+                <DataGridTextColumn x:Name="фИОColumn" Binding="{Binding ФИО}" Header="ФИО" Width="100"/>
+                <DataGridTextColumn x:Name="телефонColumn" Binding="{Binding Телефон}" Header="Телефон" Width="100"/>
+                <DataGridTextColumn x:Name="почтаColumn" Binding="{Binding Почта}" Header="Почта" Width="100"/>
+                <DataGridTextColumn x:Name="логинColumn" Binding="{Binding Логин}" Header="Логин" Width="100"/>
+                <DataGridTextColumn x:Name="парольColumn" Binding="{Binding Пароль}" Header="Пароль" Width="100"/>
+                <DataGridTextColumn x:Name="праваColumn" Binding="{Binding Права}" Header="Права" Width="100"/>
+
+
+
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Обновить" HorizontalAlignment="Left" Margin="8,296,0,0" VerticalAlignment="Top" Width="84" Height="31" FontSize="14" Click="Button_Click"/>
+        <Button Content="Сохранить" HorizontalAlignment="Left" Margin="97,296,0,0" VerticalAlignment="Top" Width="84" Height="31" FontSize="14" Click="Button_Click_1"/>
+        <Button Content="Удалить" HorizontalAlignment="Left" Margin="186,296,0,0" VerticalAlignment="Top" Width="84" Height="31" FontSize="14" Click="Button_Click_3"/>
+
+    </Grid>
+</Window>
